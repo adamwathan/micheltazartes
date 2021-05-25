@@ -33,8 +33,8 @@ function About() {
                         <a><h1 className="text-xl hover:text-rose md:text-3xl mb-3">Gestes chirurgicaux</h1> </a>
                     </Link>
                     <p>Entropion</p>
-                    <p>Montpellier</p>
-                    <p>Madrid</p>
+                    <p>Ptosis</p>
+                    <p>Blépharoplastie</p>
                 </div>
                 
                 

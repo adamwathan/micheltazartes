@@ -10,7 +10,7 @@ function Landing() {
                 <div className="flex flex-col text-xl font-light font-base sm:text-2xl md:text-2xl mt-6 p-12 md: py-0 md:px-12 md:mx-12 text-center items-center">
                     <p>Le docteur <span className="text-rose font-normal">Michel Tazartes</span> vous accueille en consultation dans <a className="hover:text-rose" href={PARIS_ADDRESS} target="_blank" rel="noopener noreferrer">son cabinet, 142 boulevard du Montparnasse</a>, dans le 14e arrondissement de Paris. </p>
                     <Link href="/contact">
-                        <a className="bg-beige border font-light rounded-lg w-3/12 m-6 p-2 hover:bg-gray-100">Contact</a>
+                        <a className="bg-beige border font-light rounded-lg md:w-3/12 w-5/12 m-6 p-2 hover:bg-gray-100">Contact</a>
                     </Link>
                 </div>
                 <div className="md:px-12 md:mx-12 xl:flex-shrink-0">
