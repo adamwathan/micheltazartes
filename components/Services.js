@@ -1,6 +1,6 @@
 import ServicesItem from "./ServicesItem";
 
-function Services({services}) {
+function Services({servicesData}) {
     return (
         <div className="flex  flex-col items-center">
             <h1 className="mt-12 border-b text-3xl p-3 text-gray-700">Gestes Chirurgicaux</h1>

@@ -1,4 +1,4 @@
-export const services = [
+export const servicesData = [
     {
         title: "Blépharoplastie",
         description: "Opération plastique",

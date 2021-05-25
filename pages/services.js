@@ -1,12 +1,12 @@
 import Nav from "../components/Navbar";
 import Services from "../components/Services";
-import {services} from "../utils/services-data";
+import {servicesData} from "../utils/services-data";
 
 function services() {
     return (
         <div>
             <Nav />
-            <Services services={services}/>
+            <Services servicesData={servicesData}/>
         </div>
     )
 }
