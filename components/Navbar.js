@@ -11,7 +11,7 @@ import {
 
 function Nav() {
     return (
-        <nav className="flex flex-col sm:flex-row justify-between items-center h-auto font-light bg-beige border-b">
+        <nav className="flex flex-col sm:flex-row justify-between w-screen items-center h-auto font-light bg-beige border-b">
             <Link href="/">
                 <div className="hover:text-mediumblue flex flex-col sm:flex-row sm:px-12 cursor-pointer transform space-x-6">
                     <Image className="rounded-full invisible lg:visible" src="/images/tazartes-sitting.jpg" height={50} width={50} />
